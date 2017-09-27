@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="情報">情報工学科　２年</string>
+    <string name="番号">1601008</string>
+    <string name="名前">堺雅人</string>
+    <string name="電話">0120-441-222</string>
+    <string name="tap1">ニックネーム</string>
+
+</resources>
